@@ -1,1 +1,2 @@
 echo "LC-XXLD27xE LC-XXLD27xK"
+EOF
